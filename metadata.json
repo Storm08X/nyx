@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Birthday Universe",
+  "description": "An interactive, conversation-generated surreal universe and birthday experience designed with continuous storytelling and live content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
